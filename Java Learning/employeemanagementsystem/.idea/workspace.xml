@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e2ca0bd-4a18-45ba-b084-2bc4e4f3a070" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2xS5xoJ7ZutwvfU6FaE9VYntgUp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.com.employeemanagement.exception in employeemanagementsystem.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EmployeemanagementsystemApplication.executor": "Debug",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mysql_aurora"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.EmployeemanagementsystemApplication">
+    <configuration name="com.employeemanagement.exception in employeemanagementsystem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employeemanagementsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.employeemanagement.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.employeemanagement.exception" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeemanagementsystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employeemanagementsystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.employeemanagement.EmployeemanagementsystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.employeemanagement.exception in employeemanagementsystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2ca0bd-4a18-45ba-b084-2bc4e4f3a070" name="Changes" comment="" />
+      <created>1747918883011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747918883011</updated>
+      <workItem from="1747918884060" duration="2262000" />
+      <workItem from="1747927346702" duration="4817000" />
+      <workItem from="1747990708813" duration="12000" />
+      <workItem from="1747990732036" duration="11000" />
+      <workItem from="1747991774260" duration="5000" />
+      <workItem from="1748084542038" duration="1758000" />
+      <workItem from="1748086310150" duration="11000" />
+      <workItem from="1748161772449" duration="10097000" />
+      <workItem from="1748236660896" duration="87000" />
+      <workItem from="1748236768007" duration="2959000" />
+      <workItem from="1748239777081" duration="43000" />
+      <workItem from="1748239861979" duration="15032000" />
+      <workItem from="1748256410469" duration="2045000" />
+      <workItem from="1748258465574" duration="275000" />
+      <workItem from="1748258760777" duration="28778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/employeemanagement/dto/EmployeeResponse.java</url>
+          <line>9</line>
+          <log-expression expression="@AllArgsConstructor&#10;public class EmployeeResponse {&#10;    private long employeeId;&#10;    private String employeeName;&#10;    private String employeeSurname;&#10;    private String employeeEmail;&#10;    private String employeePhone;&#10;    private EducationEntity employeeEducation;&#10;    &#10;    public EmployeeResponse employeeDto(EmployeeEntity employeeEntity) {&#10;        EmployeeResponse employeeResponse = new EmployeeResponse();&#10;        employeeResponse.setEmployeeId(employeeEntity.getEmployeeId());&#10;        employeeResponse.setEmployeeEmail(employeeEntity.getEmployeeEmail());&#10;        employeeResponse.setEmployeeEducation(employeeEntity.getEducation());&#10;        employeeResponse.set&#10;    }&#10;}" language="JAVA" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/employeemanagement/controller/EmployeeController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="0 = {AddressEntity@13147} " />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/employeemanagementsystem$EmployeemanagementsystemApplication.ic" NAME="EmployeemanagementsystemApplication Coverage Results" MODIFIED="1748258582391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
